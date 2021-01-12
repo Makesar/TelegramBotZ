@@ -58,8 +58,8 @@ def FinalMessage():
     return out
 
 ##Телеграм-бот
-bot = telebot.TeleBot('1309403639:AAHc3XpngH6UjAwXX3cYRpQ3OFmakIj1zj8')
-userid = 388368780
+bot = telebot.TeleBot('token')
+userid = 'id'
 
 # @bot.message_handler(commands=['start'])
 # def welcome_start(message):
